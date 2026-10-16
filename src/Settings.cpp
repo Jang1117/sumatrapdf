@@ -1023,6 +1023,7 @@ static const FieldInfo gSettingsFields[] = {
     {offsetof(Settings, fastScrollOverScrollbar), SettingType::Bool, false},
     {offsetof(Settings, preventSleepInFullscreen), SettingType::Bool, true},
     {offsetof(Settings, tabWidth), SettingType::Int, 300},
+    {offsetof(Settings, tabsButtonGap), SettingType::Int, 64},
     {offsetof(Settings, theme), SettingType::String, (intptr_t)"Light"},
     {offsetof(Settings, helpTheme), SettingType::String, (intptr_t)"app", false, gEnumSettingsHelpTheme, nullptr},
     {offsetof(Settings, lastLightTheme), SettingType::String, (intptr_t)"", true},
@@ -1136,7 +1137,7 @@ const StructInfo gSettingsInfo = {
     "leNavigateHint\0ShowAnnotationAuthorInTooltip\0ShowTocPageNumbers\0AutoGenerateTOC\0ShowStartPage\0SidebarDx\0Scro"
     "llbars\0ScrollbarInSinglePage\0SmoothScroll\0ScrollLineAmount\0SaveMemory\0PaddingAfterLastPage\0ContinuousScrollF"
     "ollowsRotation\0IgnoreDestinationZoom\0HighlightLinkDestination\0CitationHoverDelay\0ReadAloudVoiceId\0ReadAloudSp"
-    "eed\0ReadingAutoScrollSpeed\0ReadingBar\0FastScrollOverScrollbar\0PreventSleepInFullscreen\0TabWidth\0Theme\0HelpT"
+    "eed\0ReadingAutoScrollSpeed\0ReadingBar\0FastScrollOverScrollbar\0PreventSleepInFullscreen\0TabWidth\0TabsButtonGap\0Theme\0HelpT"
     "heme\0LastLightTheme\0LastDarkTheme\0DocumentColorsFollowTheme\0TocDy\0ToolbarCustomLayout\0ToolbarShowReadAloud\0"
     "ToolbarSize\0TreeFontName\0TreeFontSize\0UIFontSize\0DisableAntiAlias\0EngineeringDrawingEnhance\0DisableAutoLinks"
     "\0UseSysColors\0UseTabs\0SelectionToolbar\0SelectionToolbarLayout\0TabsMru\0CtrlTabSimple\0ZoomLevels\0ZoomIncreme"

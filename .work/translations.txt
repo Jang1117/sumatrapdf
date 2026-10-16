@@ -1,0 +1,2558 @@
+AppTranslator: SumatraPDF
+
+:# History
+kr:# 기록
+:$ Favorites
+kr:$ 즐겨찾기
+:% TOC
+kr:% TOC
+:%d files
+kr:%d개 파일
+:%d of %d
+kr:%d / %d
+:%d of %d pages
+kr:%d / %d 페이지
+:%d pages
+kr:%d페이지
+:%d pages, %d removed
+kr:%d페이지, %d개 제거됨
+:%d settings
+kr:%d개 설정
+:%s not supported
+kr:%s 지원되지 않음
+:%s restore default
+kr:%s 기본값 복원
+:%s, page %d
+kr:%s, %d페이지
+:& Thumbnails
+kr:썸네일
+:&About
+kr:정보(&A)
+:&Actual Size
+kr:실제 크기(&A)
+:&Advanced Settings...
+kr:고급 설정...
+:&After page
+kr:페이지 뒤에
+:&All selected pages
+kr:선택한 모든 페이지(&A)
+:&Apply Crop
+kr:자르기 적용
+:&Apply Resize
+kr:크기 조정 적용
+:&Automatically Scroll
+kr:자동 스크롤
+:&Back
+kr:뒤로(&B)
+:&Bing
+kr:Bing
+:&Book View
+kr:책처럼 보기(&B)
+:&Browse Files In Folder...
+kr:폴더에서 파일 찾아보기...
+:&Browse...
+kr:찾아보기...
+:&Cancel
+kr:취소
+:&Caret
+kr:삽입 기호(&C)
+:&Certificate:
+kr:인증서:
+:&Chapter:
+kr:챕터:
+:&Close
+kr:닫기(&C)
+:&Continue installing 32-bit version
+kr:32비트 버전 설치를 계속합니다(&C)
+:&Copy To Clipboard
+kr:클립보드에 복사(&C)
+:&Crop
+kr:자르기
+:&Custom CSS
+kr:사용자 정의 CSS
+:&DeepL
+kr:DeepL
+:&Discard changes
+kr:변경사항 취소(&D)
+:&Even pages only
+kr:짝수 페이지만(&E)
+:&Facing
+kr:두 페이지(&F)
+:&File
+kr:파일(&F)
+:&First Page
+kr:첫 번째 페이지(&F)
+:&Fit pages to printable area
+kr:인쇄 영역에 페이지 맞추기(&F)
+:&Free Text
+kr:자유 텍스트(&F)
+:&Go To
+kr:이동(&G)
+:&Go to page:
+kr:이동할 페이지(&G):
+:&Google
+kr:Google
+:&Help
+kr:도움말(&H)
+:&Highlight
+kr:강조(&H)
+:&Highlight Form Fields
+kr:양식 필드 강조
+:&Highlighter
+kr:형광펜
+:&Ignore the document's own styling
+kr:문서 자체 스타일 무시
+:&Image (optional):
+kr:이미지 (선택사항):
+:&Image From Clipboard
+kr:클립보드에서 이미지
+:&Keyboard Shortcuts
+kr:키보드 단축키(&K)
+:&Last Page
+kr:마지막 페이지(&L)
+:&Location (optional):
+kr:위치 (선택사항):
+:&Magnification:
+kr:확대(&M):
+:&Manual
+kr:온라인 설명서(&M)
+:&Next File In Folder
+kr:폴더의 다음 파일
+:&Next Page
+kr:다음 페이지(&N)
+:&Odd pages only
+kr:홀수 페이지만(&O)
+:&Open
+kr:열기
+:&Open Advanced Settings File...
+kr:고급 설정 파일 열기...
+:&Open Document
+kr:문서 열기(&O)
+:&Open...
+kr:열기(&O)...
+:&Options
+kr:옵션(&O)
+:&Overwrite
+kr:덮어쓰기
+:&Page
+kr:페이지
+:&Page:
+kr:페이지:
+:&Password:
+kr:비밀번호(&P):
+:&Pin Document
+kr:문서 고정(&P)
+:&Previous File In Folder
+kr:폴더의 이전 파일
+:&Previous Page
+kr:이전 페이지(&P)
+:&Print Selection...
+kr:선택 영역 인쇄...
+:&Print...
+kr:인쇄(&P)...
+:&Print... (denied)
+kr:인쇄(&P)... (거부됨)
+:&Reason (optional):
+kr:이유 (선택사항):
+:&Redact
+kr:편집
+:&Remember the password for this document
+kr:이 문서의 비밀번호 기억(&R)
+:&Remember these settings for each document
+kr:각 문서의 설정 기억(&R)
+:&Remove
+kr:제거
+:&Remove From History
+kr:히스토리에서 제거(&R)
+:&Resize
+kr:크기 조정
+:&Rotate printout:
+kr:인쇄물 회전:
+:&Save
+kr:저장
+:&Save As Image...
+kr:이미지로 저장...
+:&Save As...
+kr:다른 이름으로 저장(&S)...
+:&Save changes to existing PDF
+kr:기존 PDF에 변경사항 저장
+:&Save to existing PDF
+kr:기존 PDF에 저장(&S)
+:&Selection As Image
+kr:선택 영역을 이미지로
+:&Settings
+kr:설정(&S)
+:&Settings...
+kr:설정...
+:&Show Grid
+kr:격자 표시
+:&Show password
+kr:비밀번호 표시
+:&Shrink To Fit
+kr:크기에 맞게 축소
+:&Shrink pages to printable area
+kr:인쇄 가능한 영역에 맞게 페이지 축소
+:&Single Page
+kr:단일 페이지(&S)
+:&Stamp
+kr:스탬프(&S)
+:&Strike Out
+kr:취소선(&S)
+:&Text
+kr:텍스트(&T)
+:&Theme
+kr:테마(&T)
+:&This file
+kr:이 파일
+:&To Selection
+kr:선택 영역으로
+:&Translate with
+kr:번역 도구
+:&Trim Empty Margins
+kr:빈 여백 제거
+:&Underline
+kr:밑줄(&U)
+:&Uniform Page Width
+kr:균일한 페이지 너비
+:&View
+kr:보기(&V)
+:&Where to sign:
+kr:서명 위치:
+:&Wikipedia
+kr:Wikipedia
+:&Window
+kr:창(&W)
+:&Zoom
+kr:확대/축소(&Z)
+:&Zoom To Selection
+kr:선택 영역으로 확대
+:(chapter %d page %d)
+kr:(챕터 %d 페이지 %d)
+:(default)
+kr:(기본값)
+:(of %d)
+kr:(/ %d)
+:(page %s)
+kr:(%s 페이지)
+:(unsaved annotations)
+kr:(저장되지 않은 주석)
+:* Annotations
+kr:* 주석
+:...
+kr:...
+:1 page
+kr:1 페이지
+:3D
+kr:3D
+:= Settings
+kr:= 설정
+:> Commands
+kr:> 명령
+:@ Tabs
+kr:@ 탭
+:A&ctual size (1:1)
+kr:실제 크기 (1:1)
+:A&ntigravity
+kr:Antigravity
+:AI Antigravity chat with document
+kr:문서와 AI Antigravity 채팅
+:AI Chat documentation
+kr:AI 채팅 문서
+:AI Claude chat with document
+kr:문서와 AI Claude 채팅
+:AI Codex chat with document
+kr:문서와 AI Codex 채팅
+:AI Grok chat with document
+kr:문서와 AI Grok 채팅
+:AI chat with document using
+kr:다음을 사용하여 문서와 AI 채팅
+:Abort installation
+kr:설치 중단
+:About SumatraPDF
+kr:SumatraPDF 정보
+:Accept
+kr:수락
+:Access denied
+kr:액세스 거부됨
+:Add
+kr:추가
+:Add Favorite
+kr:즐겨찾기 추가.
+:Add PDF
+kr:PDF 추가
+:Add PDF...
+kr:PDF 추가...
+:Add argument
+kr:인수 추가
+:Add chapter %d page %d to favorites
+kr:챕터 %d 페이지 %d를 즐겨찾기에 추가
+:Add page %s to favorites
+kr:%s 페이지를 즐겨찾기에 추가
+:Add text annotation
+kr:텍스트 주석 추가
+:Add to favorites
+kr:즐겨찾기에 추가
+:Administrator access is required. Restart elevated?
+kr:관리자 권한이 필요합니다. 관리자 권한으로 다시 시작하시겠습니까?
+:Advanced
+kr:고급
+:Advanced Options...
+kr:고급 옵션...
+:Advanced Settings
+kr:고급 설정
+:Advanced Settings...
+kr:고급 설정..
+:All
+kr:전체
+:All files
+kr:모든 파일
+:All supported documents
+kr:지원하는 모든 문서
+:Annotation Colors
+kr:주석 색상
+:Annotation cut. Paste to move it.
+kr:주석이 잘렸습니다. 붙여넣기하여 이동하세요.
+:Annotations
+kr:주석
+:Antigravity
+kr:Antigravity
+:Antigravity chat
+kr:Antigravity 채팅
+:Antigravity chat...
+kr:Antigravity 채팅...
+:Appearance:
+kr:모양:
+:Application:
+kr:프로그램:
+:Apply Redactions
+kr:편집 적용
+:Approval signature
+kr:승인 서명
+:Are you sure you want to uninstall SumatraPDF?
+kr:SumatraPDF를 제거할까요?
+:Argument %d
+kr:인수 %d
+:At the &beginning
+kr:맨 앞에
+:At the &end
+kr:맨 뒤에
+:Attach File
+kr:파일 첨부
+:Attached File:
+kr:첨부된 파일:
+:Attachment: %s
+kr:첨부: %s
+:Author:
+kr:저자:
+:Auto-Rotate Wide Pages
+kr:넓은 페이지 자동 회전
+:Automatic
+kr:자동
+:Automatically Scroll
+kr:자동 스크롤
+:Automatically Scroll Faster
+kr:자동 스크롤 빠르게
+:Automatically Scroll Slower
+kr:자동 스크롤 느리게
+:Automatically check for &updates
+kr:자동으로 업데이트 확인(&U)
+:Back
+kr:뒤로(B)
+:Background Color
+kr:배경색
+:Background Color:
+kr:배경색
+:Bake PDF
+kr:PDF 굽기
+:Bake PDF File...
+kr:PDF 파일 굽기...
+:Bits Per Sample:
+kr:샘플당 비트 수:
+:Bold
+kr:굵게
+:Book View
+kr:책처럼 보기
+:Bookmark Shortcuts
+kr:북마크 바로가기
+:Bookmark shortcut to page %s of %s
+kr:페이지 %s/%s에 대한 북마크 바로가기
+:Bookmarks
+kr:북마크
+:Bookmarks: Collapse Same Level
+kr:북마크: 같은 레벨 접기
+:Bookmarks: Expand to Level 1
+kr:북마크: 레벨 1까지 펼치기
+:Bookmarks: Expand to Level 2
+kr:북마크: 레벨 2까지 펼치기
+:Bookmarks: Expand to Level 3
+kr:북마크: 레벨 3까지 펼치기
+:Border Color
+kr:테두리 색상
+:Border Color and Width
+kr:테두리 색상 및 두께
+:Border Width
+kr:테두리 두께
+:Border:
+kr:테두리:
+:Browse Files In Folder...
+kr:폴더에서 파일 찾아보기...
+:Browse...
+kr:찾아보기...
+:Bytes
+kr:바이트
+:C&hoose...
+kr:선택...
+:C&opy
+kr:복사
+:C&opy To Clipboard
+kr:클립보드에 복사
+:C&rop
+kr:자르기
+:CHM documents
+kr:CHM 문서
+:Camera Make:
+kr:카메라 제조사:
+:Camera Model:
+kr:카메라 모델:
+:Cancel
+kr:취소
+:Cannot print this file
+kr:이 파일을 인쇄할 수 없습니다.
+:Cannot start the inverse search command. Check its command line in Settings.
+kr:역방향 검색 명령을 시작할 수 없습니다. 설정에서 명령줄을 확인하세요.
+:Cannot update %s
+kr:%s을(를) 업데이트할 수 없습니다
+:Caret
+kr:삽입 기호(C)
+:Center page hori&zontally on the paper
+kr:용지에서 페이지를 가로로 가운데 정렬
+:Certificate file %s doesn't exist.
+kr:인증서 파일 %s이(가) 존재하지 않습니다.
+:Certificate file...
+kr:인증서 파일...
+:Certificate files
+kr:인증서 파일
+:Certificates:
+kr:인증서:
+:Certify: form filling and signing allowed
+kr:인증: 양식 작성 및 서명 허용
+:Certify: form filling, signing and annotations allowed
+kr:인증: 양식 작성, 서명 및 주석 허용
+:Certify: no changes allowed
+kr:인증: 변경 불가
+:Change
+kr:변경
+:Change Background Color
+kr:배경 색깔 변경
+:Change Background Color...
+kr:배경색 변경...
+:Change Language
+kr:언어 바꾸기(Change Language)
+:Change Language...
+kr:언어 변경...
+:Change Scrollbar
+kr:스크롤바 변경
+:Change Scrollbar...
+kr:스크롤바 background...
+:Change Tab Color
+kr:탭 색상 변경
+:Change Tab Color...
+kr:탭 색상 변경...
+:Change Theme
+kr:테마 변경
+:Change Theme...
+kr:테마 변경...
+:Change eBook Settings...
+kr:전자책 설정 변경...
+:Chapter %d Page %d
+kr:챕터 %d 페이지 %d
+:Chapter:
+kr:챕터:
+:Charcoal
+kr:차콜
+:Check For Updates
+kr:업데이트 확인
+:Check for &Updates
+kr:업데이트 확인(&U)
+:Checking for update...
+kr:업데이트를 확인 중입니다...
+:Choose &paper source by document page size
+kr:문서 페이지 크기에 따라 용지 공급원 선택
+:Circle
+kr:원
+:Claude C&ode
+kr:Claude 코드
+:Claude Code
+kr:Claude 코드
+:Claude chat
+kr:Claude 채팅
+:Claude chat...
+kr:Claude 채팅...
+:Clear History
+kr:기록 지우기
+:Cleared history of %d files, deleted thumbnails.
+kr:%d개 파일 내역 초기화 및 썸네일 삭제.
+:Clearing history...
+kr:내역 초기화...
+:Click or drag on the page to place the signature. Esc to cancel.
+kr:서명을 배치하려면 페이지를 클릭하거나 드래그하세요. 취소하려면 Esc 키를 누르세요.
+:Click to edit the path
+kr:클릭하여 경로 편집
+:Close
+kr:닫기
+:Close %s to continue.
+kr:계속하려면 %s을(를) 닫으세요.
+:Close All Tabs
+kr:모든 탭 닫기
+:Close Current Document
+kr:현재 문서 닫기
+:Close Document
+kr:문서 닫기
+:Close Other Tabs
+kr:다른 탭 닫기
+:Close Tabs To The Left
+kr:왼쪽 탭 닫기
+:Close Tabs To The Right
+kr:오른쪽 탭 닫기
+:Cmd+Backspace restore default
+kr:Cmd+Backspace 기본값 복원
+:Codex chat
+kr:Codex 채팅
+:Codex chat...
+kr:Codex 채팅...
+:Collapse All
+kr:모두 접기
+:Collapse Same Level
+kr:같은 레벨 접기
+:Collecting list of printers
+kr:프린터 목록 수집 중
+:Color
+kr:색상
+:Color Space:
+kr:색 공간:
+:Color:
+kr:색상
+:Comic books
+kr:만화 책
+:Command Palette
+kr:명령 팔레트
+:Comment:
+kr:댓글:
+:Compatibility
+kr:호환성
+:Components Configuration:
+kr:구성 요소 설정:
+:Compress PDF
+kr:PDF 압축
+:Compress PDF...
+kr:PDF 압축...
+:Compressed Bits/Pixel:
+kr:압축 비트/픽셀:
+:Configure &Restricted Use...
+kr:제한된 사용 구성...
+:Configure Page Grid...
+kr:페이지 그리드 설정...
+:Configure Restricted Use
+kr:제한된 사용 구성
+:Configure Restricted Use...
+kr:제한된 사용 구성...
+:Contents:
+kr:내용:
+:Continue Reading
+kr:계속 읽기
+:Continuous
+kr:한 페이지씩 계속
+:Continuous Book View
+kr:이어서 책처럼 보기
+:Continuous Facing
+kr:두 페이지씩 계속
+:Contribute Translation
+kr:번역 기여
+:Convert
+kr:변환
+:Convert Image To PDF...
+kr:이미지를 PDF로 변환...
+:Convert PDF to Images
+kr:PDF를 이미지로 변환
+:Convert PDF to Images...
+kr:PDF를 이미지로 변환...
+:Convert To PDF...
+kr:PDF로 변환...
+:Convert page to &PDF
+kr:페이지를 PDF로 변환
+:Convert to PDF
+kr:PDF로 변환
+:Convert to PDF...
+kr:PDF로 변환...
+:Copied to clipboard
+kr:클립보드에 복사됨
+:Copy Annotation
+kr:주석 복사
+:Copy As &Image To Clipboard
+kr:이미지로 클립보드에 복사
+:Copy Co&mment
+kr:주석(설명) 복사(&M)
+:Copy Comment
+kr:주석(설명) 복사(M)
+:Copy File Path
+kr:파일 경로 복사
+:Copy Image
+kr:이미지 복사
+:Copy Link &Address
+kr:링크 주소 복사(&L)
+:Copy Link Target
+kr:링크 대상 복사
+:Copy Location To Clipboard
+kr:위치를 클립보드에 복사
+:Copy Selection
+kr:선택한 부분 복사(C)
+:Copy Selection As Image
+kr:선택 영역을 이미지로 복사
+:Copy To Clipboard
+kr:클립보드에 복사
+:Copy program and machine info
+kr:프로그램 및 컴퓨터 정보 복사
+:Copy to clipboard
+kr:클립보드에 복사
+:Copying %s: %s
+kr:%s 복사 중: %s
+:Copying %s: %s / %s
+kr:%s 복사 중: %s / %s
+:Copying text was denied (copying as image only)
+kr:텍스트 복사가 거부되었습니다 (이미지만 복사)
+:Copyright:
+kr:저작권:
+:Could not create a temporary file for Google Lens.
+kr:Google Lens를 위한 임시 파일을 생성할 수 없습니다.
+:Could not encode the page for Google Lens.
+kr:Google Lens를 위한 페이지를 인코딩할 수 없습니다.
+:Could not open Google Lens in the web browser.
+kr:웹 브라우저에서 Google Lens를 열 수 없습니다.
+:Could not read the certificate file: %s
+kr:인증서 파일을 읽을 수 없습니다: %s
+:Could not read the signature image.
+kr:서명 이미지를 읽을 수 없습니다.
+:Could not render the page for Google Lens.
+kr:Google Lens용 페이지를 렌더링할 수 없습니다.
+:Could not sign the document.
+kr:문서에 서명할 수 없습니다.
+:Could not use that certificate from the Windows certificate store.
+kr:Windows 인증서 저장소의 해당 인증서를 사용할 수 없습니다.
+:Couldn't check for updates
+kr:업데이트를 확인할 수 없습니다
+:Couldn't copy SumatraPDF.exe to the installation directory
+kr:설치 디렉터리에 SumatraPDF.exe를 복사할 수 없습니다
+:Couldn't create a temporary file
+kr:임시 파일을 생성할 수 없습니다
+:Couldn't create the installation directory
+kr:설치 디렉토리를 만들 수 없습니다.
+:Couldn't delete %s
+kr:%s을(를) 삭제할 수 없습니다
+:Couldn't download update information (error %#x).
+kr:업데이트 정보를 다운로드할 수 없습니다(오류 %#x).
+:Couldn't get printer name
+kr:프린터 이름을 확인할 수 없음
+:Couldn't initialize printer
+kr:프린터를 초기화할 수 없습니다.
+:Couldn't install PDF previewer
+kr:PDF 미리보기를 설치할 수 없습니다.
+:Couldn't install PDF search filter
+kr:PDF 검색 필터를 설치할 수 없습니다.
+:Couldn't load image '%s'
+kr:이미지 '%s'을(를) 로드할 수 없습니다
+:Couldn't open '%s'
+kr:'%s'을(를) 열 수 없습니다
+:Couldn't render page %d
+kr:페이지 %d를 렌더링할 수 없습니다
+:Couldn't save '%s'
+kr:'%s'을(를) 저장할 수 없습니다
+:Couldn't uninstall PDF previewer
+kr:PDF 미리보기를 제거할 수 없습니다.
+:Couldn't uninstall Sumatra search filter
+kr:Sumatra 검색 필터를 제거할 수 없습니다
+:Couldn't write %s to disk
+kr:%s(을)를 디스크에 쓸 수 없습니다.
+:Create &Under Cursor
+kr:커서 위치에 생성
+:Create .lnk Shortcut
+kr:.lnk 바로 가기 만들기
+:Create Caret Annotation
+kr:캐럿 주석 만들기
+:Create Circle Annotation
+kr:원 주석 만들기
+:Create File Attachment Annotation
+kr:파일 첨부 주석 만들기
+:Create Free Text Annotation
+kr:자유 텍스트 주석 만들기
+:Create From Selection
+kr:선택 영역에서 생성
+:Create Highlight Annotation
+kr:강조 주석 만들기
+:Create Image Annotation From Clipboard
+kr:클립보드에서 이미지 주석 만들기
+:Create Ink Annotation
+kr:잉크 주석 만들기
+:Create Line Annotation
+kr:선 주석 만들기
+:Create Link Annotation
+kr:링크 주석 만들기
+:Create Polygon Annotation
+kr:다각형 주석 만들기
+:Create Polyline Annotation
+kr:폴리라인 주석 만들기
+:Create Popup Annotation
+kr:팝업 주석 만들기
+:Create Redact Annotation
+kr:수정 주석 만들기
+:Create Square Annotation
+kr:사각형 주석 만들기
+:Create Squiggly Annotation
+kr:물결 주석 만들기
+:Create Stamp Annotation
+kr:스탬프 주석 만들기
+:Create Strike Out Annotation
+kr:취소선 주석 만들기
+:Create Text Annotation
+kr:텍스트 주석 만들기
+:Create Underline Annotation
+kr:밑줄 주석 만들기
+:Created:
+kr:만든 날짜:
+:Creating thumbnail %d of %d: %s
+kr:썸네일 생성 중 %d/%d: %s
+:Crop Image
+kr:이미지 자르기
+:Crop Image...
+kr:이미지 자르기...
+:Ctrl + Enter
+kr:Ctrl + Enter
+:Ctrl+Tab navigate
+kr:Ctrl+Tab 탐색
+:Current
+kr:현재
+:Current Image (%d):
+kr:현재 이미지 (%d):
+:Current Page (%d) Size:
+kr:현재 페이지 (%d) 크기:
+:Current file
+kr:현재 파일
+:Cursor position:
+kr:커서 위치:
+:Custom
+kr:사용자 정의
+:Custom &Zoom...
+kr:확대/축소 사용자 정의(&Z)...
+:Cut Annotation
+kr:주석 잘라내기
+:DPI:
+kr:DPI:
+:DVI documents
+kr:DVI 문서
+:Dark
+kr:어두운
+:Date Original:
+kr:원본 날짜:
+:Date/Time Digitized:
+kr:디지털화 날짜/시간:
+:Date/Time:
+kr:날짜/시간:
+:Date:
+kr:날짜:
+:Debug: Corrupt Memory
+kr:디버그: 메모리 손상
+:Debug: Crash Me
+kr:디버그: 강제 종료
+:Debug: Show Fit Content Area
+kr:디버그: 콘텐츠 영역 맞춤 표시
+:Debug: Show Notification
+kr:디버그: 알림 표시
+:Debug: Start Stress Test
+kr:디버그: 스트레스 테스트 시작
+:Debug: Toggle Cache Info
+kr:디버그: 캐시 정보 전환
+:Debug: Toggle DPI Override
+kr:디버그: DPI 재정의 전환
+:Debug: Toggle Predictive Rendering
+kr:디버그: 예측 렌더링 전환
+:Debug: Toggle RTL
+kr:디버그: RTL 전환
+:Debug: Toggle Render Queue Info
+kr:디버그: 렌더 큐 정보 전환
+:Decompress PDF
+kr:PDF 압축 해제
+:Decompress PDF...
+kr:PDF 압축 해제...
+:Decrypt PDF
+kr:PDF 암호 해독
+:Decrypt PDF...
+kr:PDF 암호 해독...
+:Default &Layout:
+kr:기본 구성(&L):
+:Default &Zoom:
+kr:기본 확대/축소(&Z):
+:Del
+kr:Del
+:Del close tab
+kr:Del 탭 닫기
+:Del remove favorite
+kr:Del 즐겨찾기 제거
+:Del remove from history
+kr:Del 기록에서 제거
+:Del restore default
+kr:Del 기본값 복원
+:Delete
+kr:삭제
+:Delete %d annotations
+kr:%d개의 주석 삭제
+:Delete Annotation
+kr:주석 삭제
+:Delete Cached Files
+kr:캐시된 파일 삭제
+:Delete Favorite
+kr:즐겨찾기 삭제
+:Delete File
+kr:파일 삭제
+:Delete File And Open Next
+kr:파일 삭제 후 다음 파일 열기
+:Delete Pages
+kr:페이지 삭제
+:Delete Pages From PDF
+kr:PDF에서 페이지 삭제
+:Delete Pages From PDF...
+kr:PDF에서 페이지 삭제...
+:Delete sumatrapdfrestrict.ini?
+kr:sumatrapdfrestrict.ini를 삭제하시겠습니까?
+:Deleted %d cached comic book files, %d failed.
+kr:캐시된 만화책 파일 %d개를 삭제했습니다. %d개 실패.
+:Deleted %d cached comic book files.
+kr:캐시된 만화책 파일 %d개를 삭제했습니다.
+:Deleted files removed from history: %d
+kr:기록에서 삭제된 파일: %d개
+:Denied Permissions:
+kr:거부된 사용 권한:
+:Discard Changes
+kr:변경 사항 취소
+:Discard changes
+kr:변경사항 취소(D)
+:Distance between grid lines
+kr:격자선 간격
+:DjVu documents
+kr:DjVu 문서
+:Do nothing
+kr:아무 작업도 하지 않음
+:Dock to toolbar
+kr:툴바에 고정
+:Document
+kr:문서
+:Document Properties
+kr:문서 속성
+:Document Properties...
+kr:문서 속성...
+:Document colors follow theme
+kr:문서 색상이 테마를 따름
+:Don't install
+kr:설치하지 마십시오
+:Dots
+kr:점
+:Dotted lines
+kr:점선
+:Download 64-bit version
+kr:64비트 버전 다운로드
+:Download update
+kr:업데이트 다운로드
+:Downloading update...
+kr:업데이트 다운로드 중...
+:Draw ink annotation. Release to finish. **Esc** to cancel.
+kr:잉크 주석을 그립니다. 놓으면 완료됩니다. **Esc**를 눌러 취소합니다.
+:E&xit
+kr:나가기(&X)
+:E&xit Fullscreen
+kr:전체화면 종료(&X)
+:EPUB ebooks
+kr:ePub 문서
+:Edit Note
+kr:메모 편집
+:Edit PDF
+kr:PDF 편집
+:Edit colors
+kr:색상 편집
+:Edit text
+kr:텍스트 편집
+:Embed Font
+kr:글꼴 포함
+:Embedding this font can add hundreds of kilobytes to the PDF.
+kr:이 글꼴을 포함하면 PDF에 수백 킬로바이트가 추가될 수 있습니다.
+:Empty signature field: %s (page %d)
+kr:빈 서명 필드: %s (페이지 %d)
+:Encrypt PDF
+kr:PDF 암호화
+:Encrypt PDF...
+kr:PDF 암호화...
+:Encryption:
+kr:암호화:
+:End of document
+kr:문서의 끝
+:Enter
+kr:Enter
+:Enter apply
+kr:Enter 적용
+:Enter change
+kr:Enter 변경
+:Enter confirm
+kr:Enter 확인
+:Enter go to
+kr:Enter 이동
+:Enter go to favorite
+kr:Enter 즐겨찾기로 이동
+:Enter open file
+kr:Enter 파일 열기
+:Enter password
+kr:비밀번호 입력
+:Enter password for %s
+kr:%s의 비밀번호를 입력하세요.
+:Enter run command
+kr:Enter 명령 실행
+:Enter select
+kr:Enter 선택
+:Enter switch to tab
+kr:Enter 키로 탭 전환
+:Enter the command line to invoke when you double-click on the PDF document:
+kr:PDF 문서를 더블클릭할 때 실행할 명령줄을 입력하세요:
+:Error
+kr:오류
+:Error loading %s
+kr:%s (을)를 불러오는 중에 오류가 발생했습니다!
+:Error:
+kr:오류:
+:Errors
+kr:오류
+:Esc cancel
+kr:Esc 취소
+:Esc close
+kr:Esc 키로 닫기
+:Esc go back
+kr:Esc 뒤로 가기
+:Example Scripts
+kr:예제 스크립트
+:Excel workbooks
+kr:Excel 통합 문서
+:Execute a program
+kr:프로그램 실행
+:Exif Version:
+kr:Exif 버전:
+:Exit Application
+kr:응용 프로그램 종료
+:Expand All
+kr:모두 확대하기
+:Expand TOC to Current Page
+kr:현재 페이지까지 목차 펼치기
+:Expand to Current Page
+kr:현재 페이지까지 펼치기
+:Expand to Level 1
+kr:레벨 1까지 펼치기
+:Expand to Level 2
+kr:레벨 2까지 펼치기
+:Expand to Level 3
+kr:레벨 3까지 펼치기
+:Exposure Bias:
+kr:노출 보정:
+:Exposure Program:
+kr:노출 프로그램:
+:Exposure Time:
+kr:노출 시간:
+:Extend Selection One Character Left
+kr:선택 영역을 왼쪽으로 한 문자 확장
+:Extend Selection One Character Right
+kr:선택 영역을 오른쪽으로 한 문자 확장
+:Extend Selection One Word Left
+kr:선택 영역을 왼쪽으로 한 단어 확장
+:Extend Selection One Word Right
+kr:선택 영역을 오른쪽으로 한 단어 확장
+:Extract Pages
+kr:페이지 추출
+:Extract Pages From PDF
+kr:PDF에서 페이지 추출
+:Extract Pages From PDF...
+kr:PDF에서 페이지 추출...
+:Extract Text
+kr:텍스트 추출
+:Extract Text From Document
+kr:문서에서 텍스트 추출
+:Extract Text From Document...
+kr:문서에서 텍스트 추출...
+:Extract Text From PDF
+kr:PDF에서 텍스트 추출
+:F&avorites
+kr:즐겨찾기(&A)
+:F&orward
+kr:앞으로(&O)
+:F-Number:
+kr:조리개 값:
+:Facing
+kr:두 페이지씩
+:Facing View
+kr:마주보기 보기
+:Failed to apply redactions
+kr:편집 제거 적용 실패
+:Failed to delete sumatrapdfrestrict.ini.
+kr:sumatrapdfrestrict.ini 삭제에 실패했습니다.
+:Failed to delete uninstaller registry keys
+kr:레지스트리 키를 삭제하지 못했습니다.
+:Failed to launch the AI CLI.
+kr:AI CLI 실행 실패
+:Failed to rename the file!
+kr:파일 이름을 바꾸지 못했습니다!
+:Failed to save '%s': %s
+kr:'%s' 저장 실패: %s
+:Failed to save a file
+kr:파일을 저장하지 못했습니다.
+:Failed to save image
+kr:이미지 저장 실패
+:Failed to save sumatrapdfrestrict.ini.
+kr:sumatrapdfrestrict.ini 저장에 실패했습니다.
+:Failed to save the screenshot
+kr:스크린샷 저장에 실패했습니다
+:Failed to write the extended file extension information to the registry
+kr:확장된 파일의 확장자 정보를 레지스트리에 쓰지 못했습니다.
+:Failed to write the uninstallation information to the registry
+kr:제거 정보를 레지스트리에 쓰지 못했습니다.
+:Fast Web View
+kr:빠른 웹 보기
+:Favorites
+kr:즐겨찾기
+:FictionBook documents
+kr:FictionBook 문서
+:File %s already exists. Overwrite?
+kr:파일 %s이(가) 이미 존재합니다. 덮어쓰시겠습니까?
+:File %s not found
+kr:%s 파일을 찾을 수 없습니다.
+:File Attachment
+kr:파일 첨부
+:File Size:
+kr:파일 크기:
+:File Source:
+kr:파일 소스:
+:File Type:
+kr:파일 형식:
+:File path not available
+kr:파일 경로를 사용할 수 없습니다
+:File:
+kr:파일:
+:Files:
+kr:파일:
+:Filter settings
+kr:필터 설정
+:Fin&d...
+kr:찾기(&D)...
+:Find
+kr:찾기
+:Find Annotation
+kr:주석 찾기
+:Find Next
+kr:다음 찾기
+:Find Next Selection
+kr:다음 선택 항목 찾기
+:Find Previous
+kr:이전 찾기
+:Find Previous Selection
+kr:이전 선택 항목 찾기
+:Find...
+kr:찾기(D)...
+:Find: Toggle Match Case
+kr:찾기: 대/소문자 구분 전환
+:Find: Toggle Match Whole Word
+kr:찾기: 단어 단위로 전환
+:First Page
+kr:첫 번째 페이지(F)
+:First file in folder.
+kr:폴더의 첫 번째 파일.
+:Fit &Content
+kr:내용에 맞춤(&C)
+:Fit &Height
+kr:높이 맞춤
+:Fit &Page
+kr:페이지에 맞춤(&P)
+:Fit &Visible
+kr:보이는 영역에 맞춤
+:Fit &Width
+kr:너비에 맞춤(&W)
+:Fit Content
+kr:내용에 맞춤
+:Fit Height
+kr:높이 맞춤
+:Fit Page
+kr:페이지(세로) 맞춤
+:Fit Visible
+kr:보이는 영역에 맞춤
+:Fit Width
+kr:너비(가로) 맞춤
+:Fit Width and Show Pages Continuously
+kr:지속적인 너비 맞춤과 페이지 보기
+:Fit a Single Page
+kr:한 페이지 맞춤
+:Fit by &Orientation
+kr:방향에 맞춤
+:Fit by Orientation
+kr:방향에 맞춤
+:Fix Default App For Extension
+kr:확장자에 대한 기본 앱 수정
+:Flash:
+kr:플래시:
+:Flashpix Version:
+kr:Flashpix 버전:
+:Focal Length (35mm):
+kr:초점 거리 (35mm):
+:Focal Length:
+kr:초점 거리:
+:Focus
+kr:포커스
+:Follow Link With Keyboard
+kr:키보드로 링크 따라가기
+:Follow Windows
+kr:Windows 따르기
+:Font
+kr:글꼴
+:Font \"%s\" not found, using the default font
+kr:폰트 "%s"를 찾을 수 없습니다. 기본 폰트를 사용합니다
+:Font:
+kr:폰트:
+:Fonts:
+kr:글꼴:
+:For all &PDF files
+kr:모든 PDF 파일
+:For all &comic books
+kr:모든 만화책
+:For all &ebooks
+kr:모든 전자책
+:For all &images
+kr:모든 이미지
+:Forward
+kr:앞으로(O)
+:Free Text
+kr:자유 텍스트(F)
+:Frequently Read
+kr:최근에 읽은 파일
+:From
+kr:시작
+:From bottom:
+kr:아래에서:
+:From cursor
+kr:커서에서
+:From left:
+kr:왼쪽에서:
+:From:
+kr:시작:
+:Fulls&creen
+kr:전체화면(&U)
+:G&rok Build
+kr:Grok 빌드
+:GB
+kr:GB
+:Generate Table Of Contents
+kr:목차 생성
+:Getting font information...
+kr:글꼴 정보를 가져오는 중...
+:Go To Home Page
+kr:홈페이지로 이동
+:Go to Favorite
+kr:즐겨찾기로 이동
+:Go to Next Favorite
+kr:다음 즐겨찾기로 이동
+:Go to Page...
+kr:페이지로 이동...
+:Go to Previous Favorite
+kr:이전 즐겨찾기로 이동
+:Go to page
+kr:페이지로 가기
+:Google Lens is only available for document pages.
+kr:Google Lens는 문서 페이지에서만 사용할 수 있습니다.
+:Google Sc&holar
+kr:Google Scholar
+:Grid line origin offset
+kr:격자선 원점 오프셋
+:Grid style:
+kr:격자 스타일:
+:Grok Build
+kr:Grok 빌드
+:Grok Build is not signed in.
+kr:Grok Build에 로그인되어 있지 않습니다.
+:Grok chat
+kr:Grok 채팅
+:Grok chat...
+kr:Grok 채팅...
+:Help
+kr:도움말(H)
+:Help: About SumatraPDF...
+kr:도움말: SumatraPDF 정보...
+:Help: Keyboard Shortcuts
+kr:도움말: 키보드 단축키
+:Help: Manual
+kr:도움말: 설명서
+:Help: Manual On Website
+kr:도움말: 웹사이트 설명서
+:Help: SumatraPDF Website
+kr:도움말: SumatraPDF 웹사이트
+:Hidden
+kr:숨김
+:Hide &Options
+kr:옵션 숨김(&O)
+:Hide Annotations
+kr:주석 숨기기
+:Highlight
+kr:강조(H)
+:Highlight Selection
+kr:선택 영역 강조
+:Highlighter
+kr:형광펜
+:Highlighter: select text to highlight it
+kr:형광펜: 텍스트를 선택하여 강조하세요
+:Home
+kr:홈
+:Horizontal:
+kr:가로:
+:ISO Speed:
+kr:ISO 감도:
+:Icon
+kr:아이콘
+:Icon:
+kr:아이콘:
+:Image File Size:
+kr:이미지 파일 크기:
+:Image From Fi&le...
+kr:파일에서 이미지...
+:Image Size:
+kr:이미지 크기:
+:Image file %s doesn't exist.
+kr:이미지 파일 %s이(가) 존재하지 않습니다.
+:Image files
+kr:이미지 파일
+:Image files (*.%s)
+kr:이미지 파일 (*.%s)
+:Images
+kr:이미지
+:Ink
+kr:잉크
+:Insert '%s':
+kr:'%s' 삽입:
+:Insert Image...
+kr:이미지 삽입...
+:Insert Te&xt
+kr:텍스트 삽입
+:Insert Text Snippet
+kr:텍스트 스니펫 삽입
+:Install &desktop shortcut
+kr:바탕 화면 바로 가기 설치
+:Install Antigravity CLI to use this feature.
+kr:이 기능을 사용하려면 Antigravity CLI를 설치하세요.
+:Install Claude Code to use this feature.
+kr:이 기능을 사용하려면 Claude Code를 설치하세요.
+:Install Grok Build to use this feature.
+kr:이 기능을 사용하려면 Grok Build를 설치하세요.
+:Install Pre-release Update
+kr:시험판 업데이트 설치
+:Install SumatraPDF
+kr:SumatraPDF 설치
+:Install SumatraPDF in &folder:
+kr:SumatraPDF 설치 폴더(&F):
+:Install and relaunch
+kr:설치 후 재실행
+:Install for all users
+kr:모든 사용자용 설치
+:Installation aborted: could not update %s (file in use).
+kr:설치가 중단되었습니다: %s을(를) 업데이트할 수 없습니다(파일 사용 중).
+:Installation could not be completed.
+kr:설치를 완료할 수 없습니다.
+:Installation in progress...
+kr:설치하는 중...
+:Installing 32-bit SumatraPDF on 64-bit OS
+kr:64비트 운영체제에 32비트 SumatraPDF 설치
+:Interior Color
+kr:내부 색상
+:Interior Color:
+kr:내부 색상:
+:Invert Colors
+kr:색상 반전
+:Invoke Inverse Search
+kr:역방향 검색 실행
+:Issuer:
+kr:발급자:
+:Italic
+kr:기울임꼴
+:KB
+kr:KB
+:Keywords:
+kr:키워드:
+:Last Page
+kr:마지막 페이지(L)
+:Last file in folder.
+kr:폴더의 마지막 파일.
+:Launch a browser or run command with selection
+kr:선택 항목으로 브라우저 실행 또는 명령 실행
+:Learn more
+kr:자세히 알아보기
+:Left to right
+kr:왼쪽에서 오른쪽으로
+:Let Windows Desktop Search &search PDF documents
+kr:Windows 데스크톱 검색에 PDF 문서 검색 기능 추가(&S)
+:Let Windows show &previews of PDF documents
+kr:Windows 에 PDF 문서 미리보기 기능 추가(&P)
+:Light
+kr:밝은
+:Light Source:
+kr:광원:
+:Limit to pages 1-%d:
+kr:1-%d 페이지로 제한:
+:Line
+kr:선
+:Line End
+kr:선 끝
+:Line End:
+kr:선 끝:
+:Line Start
+kr:선 시작
+:Line Start:
+kr:선 시작:
+:Line spacing:
+kr:줄 간격:
+:Link
+kr:링크
+:List Printers...
+kr:프린터 목록...
+:Loading %s ...
+kr:%s 불러오는 중 ...
+:Loading...
+kr:로딩 중...
+:Lock document after signing (last signer)
+kr:서명 후 문서 잠금 (마지막 서명자)
+:Lock form &fields after signing
+kr:서명 후 양식 필드 잠금
+:MB
+kr:MB
+:Make Document Colors Follow Theme
+kr:문서 색상을 테마에 맞추기
+:Make Document Colors Follow Theme...
+kr:문서 색상을 테마에 맞추기...
+:Man&ga Mode
+kr:만화 방식(&G)
+:Manual On Website
+kr:웹사이트에서 설명서 보기
+:Margin:
+kr:여백:
+:Mark content for redaction. Drag or click twice. **Esc** to cancel.
+kr:편집할 내용을 표시합니다. 드래그하거나 두 번 클릭하세요. **Esc**를 눌러 취소합니다.
+:Markdown documents
+kr:마크다운 문서
+:Match Case
+kr:대소문자 일치
+:Match Whole Word
+kr:단어 단위로 찾기
+:Max Aperture:
+kr:최대 조리개:
+:Menu
+kr:메뉴
+:Merge PDF
+kr:PDF 병합
+:Merge PDF...
+kr:PDF 병합...
+:Metering Mode:
+kr:측광 모드:
+:Microsoft Reader ebooks
+kr:Microsoft Reader 전자책
+:Mobi documents
+kr:Mobi 문서
+:Modified:
+kr:고친 날짜:
+:Move Frame Focus
+kr:프레임 포커스 이동
+:Move Tab Left
+kr:탭 왼쪽으로 이동
+:Move Tab Right
+kr:탭 오른쪽으로 이동
+:Movie
+kr:동영상
+:Name for chapter %d page %d (optional):
+kr:챕터 %d 페이지 %d의 이름 (선택사항):
+:Name for page %s (optional):
+kr:페이지 %s의 이름 (선택사항):
+:Navigate
+kr:탐색
+:Navigate Back
+kr:뒤로 이동
+:Navigate Favorites
+kr:즐겨찾기 탐색
+:Navigate Files in Folder
+kr:폴더에서 파일 탐색
+:Navigate Files in Folder...
+kr:폴더에서 파일 탐색...
+:Navigate Forward
+kr:앞으로 이동
+:Navigate History
+kr:히스토리 탐색
+:Navigate Table Of Contents
+kr:목차 탐색
+:Navigate Tabs
+kr:탭 탐색
+:Navigate Thumbnails
+kr:썸네일 탐색
+:New &window
+kr:새 창(&W)
+:New Window
+kr:새 창
+:New signature on page %d
+kr:페이지 %d의 새 서명
+:New version available
+kr:새 버전이 있습니다
+:Next Page
+kr:다음 페이지
+:Next Tab
+kr:다음 탭
+:No
+kr:아니요
+:No cached comic book files.
+kr:캐시된 만화책 파일이 없습니다.
+:No image in the clipboard
+kr:클립보드에 이미지가 없습니다
+:No image under the cursor.
+kr:커서 아래에 이미지가 없습니다.
+:No links on this page
+kr:이 페이지에 링크가 없습니다
+:No redaction marks to apply
+kr:적용할 편집 표시가 없습니다
+:No result found
+kr:결과를 찾을 수 없습니다
+:No result found around line %u in file %s
+kr:%u 행 (%s 파일) 주변에서 발견된 결과가 없습니다.
+:No synchronization file found
+kr:동기화 파일을 찾을 수 없습니다.
+:No synchronization info at this position
+kr:이 위치의 동기화 정보가 없습니다.
+:No text available to read aloud
+kr:소리 내어 읽을 텍스트가 없습니다
+:No text on this page
+kr:이 페이지에 텍스트 없음
+:None
+kr:없음
+:Not a valid installer
+kr:유효한 설치 프로그램이 아닙니다
+:Nothing to redo
+kr:다시 실행할 항목이 없습니다
+:Nothing to take a screenshot of
+kr:스크린샷을 찍을 대상이 없습니다
+:Nothing to undo
+kr:실행 취소할 항목이 없습니다
+:Number of Images:
+kr:이미지 수:
+:Number of Pages:
+kr:페이지 수:
+:OK
+kr:확인
+:Opacity
+kr:불투명도
+:Opacity:
+kr:투명도:
+:Open
+kr:열기
+:Open &in PDF-XChange
+kr:PDF-XChange로 열기(&I)
+:Open Advanced Settings File...
+kr:고급 설정 파일 열기...
+:Open Attachment
+kr:첨부 파일 열기
+:Open Current Document In New Tab
+kr:새 탭에서 현재 문서 열기
+:Open Current Document In New Window
+kr:새 창에서 현재 문서 열기
+:Open Directory In Directory Opus
+kr:Directory Opus에서 디렉토리 열기
+:Open Directory In Double Commander
+kr:Double Commander에서 디렉토리 열기
+:Open Directory In Explorer
+kr:탐색기에서 디렉토리 열기
+:Open Directory In Total Commander
+kr:Total Commander에서 디렉토리 열기
+:Open Directory in &Double Commander
+kr:더블 커맨더에서 디렉토리 열기
+:Open Directory in &Explorer
+kr:탐색기에서 디렉토리 열기
+:Open Directory in &Total Commander
+kr:토탈 커맨더에서 디렉토리 열기
+:Open Directory in Director&y Opus
+kr:오푸스에서 디렉토리 열기
+:Open Embedded PDF
+kr:임베딩된 PDF 열기
+:Open File With SumatraPDF File Picker...
+kr:SumatraPDF 파일 선택기로 파일 열기...
+:Open File With Windows File Picker...
+kr:Windows 파일 선택기로 파일 열기...
+:Open File Without History...
+kr:기록 없이 파일 열기...
+:Open File...
+kr:파일 열기...
+:Open In New Window
+kr:새 창에서 열기
+:Open Next File In Folder
+kr:폴더의 다음 파일 열기
+:Open Previous File In Folder
+kr:폴더의 이전 파일 열기
+:Open Recent File
+kr:최근 파일 열기
+:Open Selected Document
+kr:선택한 문서 열기
+:Open Settings File
+kr:설정 파일 열기
+:Open With Pdf&Djvu Bookmarker
+kr:PdfDjvu Bookmarker로 열기
+:Open in %s
+kr:%s(으)로 열기
+:Open in &Adobe Reader
+kr:Adobe Reader로 열기(&A)
+:Open in &Foxit Reader
+kr:Foxit Reader로 열기(&F)
+:Open in &Microsoft XPS-Viewer
+kr:Microsoft XPS-Viewer로 열기(&M)
+:Open in Adobe Acrobat
+kr:Adobe Acrobat에서 열기
+:Open in Foxit PhantomPDF
+kr:Foxit PhantomPDF에서 열기
+:Open in Foxit Reader
+kr:Foxit Reader로 열기(F)
+:Open in Microsoft &HTML Help
+kr:Microsoft HTML 도움말로 열기(&H)
+:Open in Microsoft HTML Help
+kr:Microsoft HTML 도움말로 열기(H)
+:Open in Microsoft XPS Viewer
+kr:Microsoft XPS 뷰어에서 열기
+:Open in PDF-XChange
+kr:PDF-XChange로 열기(I)
+:Open in a window
+kr:창에서 열기
+:Open using &SumatraPDF File Picker...
+kr:SumatraPDF 파일 선택기 사용...
+:Open using &Windows File Picker...
+kr:Windows 파일 선택기 사용...
+:Open...
+kr:열기(O)...
+:OpenAI Code&x
+kr:OpenAI Codex
+:OpenAI Codex
+kr:OpenAI Codex
+:OpenAI Codex CLI must be installed for this functionality
+kr:이 기능을 사용하려면 OpenAI Codex CLI가 설치되어 있어야 합니다
+:OpenAI Codex is not signed in.
+kr:OpenAI Codex가 로그인되어 있지 않습니다.
+:Orientation:
+kr:방향:
+:Other Font (Embedded)...
+kr:다른 글꼴 (임베디드)...
+:Overlay
+kr:오버레이
+:P&roperties
+kr:속성(&R)
+:PDF Optimizations:
+kr:PDF 최적화:
+:PDF Producer:
+kr:PDF 제작자:
+:PDF Version:
+kr:PDF 버전:
+:PDF documents
+kr:PDF 문서
+:Pa&ge...
+kr:페이지(&G)...
+:Page %d of %d
+kr:%d / %d 페이지
+:Page %s
+kr:%s 페이지
+:Page %u does not exist
+kr:%u 페이지가 존재하지 않습니다
+:Page Aspect
+kr:페이지 비율
+:Page Grid
+kr:페이지 격자
+:Page scaling
+kr:페이지 배율 조정
+:Page:
+kr:페이지:
+:Pages
+kr:페이지
+:PalmDoc documents
+kr:PalmDoc 문서
+:Password
+kr:비밀번호
+:Paste Annotation
+kr:주석 붙여넣기
+:Paste Image From Clipboard
+kr:클립보드에서 이미지 붙여넣기
+:Path:
+kr:경로:
+:Pause
+kr:일시 정지
+:Pause Reading
+kr:읽기 일시 정지
+:Paused
+kr:일시 중지됨
+:Paused \xC2\xB7 %s \xC2\xB7 %s
+kr:일시정지됨 · %s · %s
+:Paused \xC2\xB7 %s \xC2\xB7 page %d of %d \xC2\xB7 %s
+kr:일시정지됨 · %s · %d/%d 페이지 · %s
+:Pin
+kr:고정
+:Pin Selected Document
+kr:선택한 문서 고정
+:Pixel X Dimension:
+kr:픽셀 X 크기:
+:Pixel Y Dimension:
+kr:픽셀 Y 크기:
+:Place caret annotation. **Esc** to cancel.
+kr:캐럿 주석을 배치합니다. 취소하려면 **Esc**를 누르세요.
+:Place circle annotation. Drag or click twice. **Shift** for a circle. **Esc** to cancel.
+kr:원형 주석을 배치합니다. 드래그하거나 두 번 클릭하세요. **Shift**로 정원을 그립니다. **Esc**로 취소합니다.
+:Place file attachment. **Esc** to cancel.
+kr:첨부 파일을 배치합니다. 취소하려면 **Esc**를 누르세요.
+:Place free text annotation. **Esc** to cancel.
+kr:자유 텍스트 주석을 배치합니다. 취소하려면 **Esc**를 누르세요.
+:Place line annotation. **Shift** to snap to multiples of 45 degrees. **Esc** to cancel.
+kr:선 주석을 배치합니다. **Shift** 키를 누르면 45도 배수로 맞춥니다. 취소하려면 **Esc** 키를 누르세요.
+:Place stamp annotation. **Esc** to cancel.
+kr:스탬프 주석을 배치합니다. 취소하려면 **Esc**를 누르세요.
+:Place text annotation. **Esc** to cancel.
+kr:텍스트 주석을 배치합니다. 취소하려면 **Esc**를 누르세요.
+:Please choose the certificate file to sign with.
+kr:서명에 사용할 인증서 파일을 선택하세요.
+:Polygon
+kr:다각형
+:Polyline
+kr:폴리라인
+:Popup
+kr:팝업
+:Popup:
+kr:팝업:
+:PostScript documents
+kr:PostScript 문서
+:PowerPoint presentations
+kr:PowerPoint 프레젠테이션
+:Pr&esentation
+kr:프레젠테이션(&E)
+:Presentation Black Background
+kr:프레젠테이션 검은색 배경
+:Presentation White Background
+kr:프레젠테이션 흰색 배경
+:Press (Kbd/(Key/CmdCommandPalette)) to open [command palette](CmdCommandPalette).
+kr:(Kbd/(Key/CmdCommandPalette))를 눌러 [명령 팔레트](CmdCommandPalette)를 엽니다.
+:Press a key combination:
+kr:키 조합을 누르세요:
+:Previous Page
+kr:이전 페이지
+:Previous Tab
+kr:이전 탭
+:Print
+kr:인쇄
+:Print Document...
+kr:문서 인쇄...
+:Print Selection...
+kr:선택 영역 인쇄...
+:Print each page at its &document page size (mixed sizes)
+kr:각 페이지를 문서 페이지 크기로 인쇄 (혼합 크기)
+:Print range
+kr:인쇄 범위
+:Printer '%s' doesn't exist
+kr:프린터 '%s'이(가) 존재하지 않습니다
+:Printer Mark
+kr:프린터 표시
+:Printing in progress.
+kr:인쇄 작업 중입니다.
+:Printing is still in progress. Abort and quit?
+kr:아직 인쇄가 진행 중입니다.  중단하고 끝낼까요?
+:Printing is still in progress. Abort and start over?
+kr:아직 인쇄가 진행 중입니다.  중단하고 다시 시작할까요?
+:Printing page %d of %d...
+kr:%d / %d 페이지 인쇄하는 중...
+:Printing problem.
+kr:인쇄하는 중에 문제가 발생했습니다.
+:Projection
+kr:투영
+:Properties...
+kr:속성들...
+:Quick Edit Settings
+kr:빠른 편집 설정
+:Quit
+kr:종료
+:R&esize
+kr:크기 조정
+:R&estore
+kr:복원
+:RGB:
+kr:RGB:
+:Re&name...
+kr:이름 바꾸기(&N)...
+:Read Aloud
+kr:소리내어 읽기
+:Read Aloud: Show In Toolbar
+kr:소리내어 읽기: 도구 모음에 표시
+:Read aloud voice crashed and was turned off
+kr:소리 내어 읽기 음성이 충돌하여 꺼졌습니다
+:Read&ing Bar
+kr:읽기 막대
+:Reading Bar
+kr:읽기 막대
+:Reading Bar Invert
+kr:읽기 막대 반전
+:Reading Direction:
+kr:읽기 방향:
+:Reading \xC2\xB7 %s \xC2\xB7 %s
+kr:읽는 중 · %s · %s
+:Reading \xC2\xB7 %s \xC2\xB7 page %d of %d \xC2\xB7 %s
+kr:읽는 중 · %s · %d/%d 페이지 · %s
+:Reading stopped
+kr:읽기 중지됨
+:Recently Opened
+kr:최근 열어본 항목
+:Rect:
+kr:사각형:
+:Redact
+kr:수정
+:Redactions applied.
+kr:교정이 적용되었습니다.
+:Redo
+kr:다시 실행
+:Register Windows Previewer
+kr:Windows 미리보기 등록
+:Register Windows Search Filter
+kr:Windows 검색 필터 등록
+:Release Ctrl select
+kr:Ctrl 선택 해제
+:Reload Document
+kr:문서 다시 불러오기
+:Remember &opened files
+kr:열었던 파일(들) 기억(&O)
+:Remove
+kr:제거
+:Remove Deleted Files From History
+kr:기록에서 삭제된 파일 제거
+:Remove Selected Document From History
+kr:기록에서 선택한 문서 제거
+:Remove chapter %d page %d from favorites
+kr:즐겨찾기에서 챕터 %d 페이지 %d 제거
+:Remove from Frequently Read
+kr:자주 읽는 항목에서 제거
+:Remove from favorites
+kr:즐겨찾기에서 제거
+:Remove page
+kr:페이지 제거
+:Remove page %s from favorites
+kr:즐겨찾기에서 %s 페이지 제거
+:Rename File...
+kr:파일 이름 바꾸기...
+:Rename To
+kr:바꿀 이름
+:Rendering page %d...
+kr:%d페이지 렌더링 중...
+:Reopen Last Closed
+kr:마지막으로 닫은 항목 다시 열기
+:Replace %s with...
+kr:%s을(를) 다음으로 바꾸기...
+:Reset
+kr:재설정
+:Reset to defaults
+kr:기본값으로 재설정
+:Resize Image
+kr:이미지 크기 조정
+:Resize Image...
+kr:이미지 크기 조정...
+:Resolution (DPI)
+kr:해상도 (DPI)
+:Resolution Unit:
+kr:해상도 단위:
+:Restore
+kr:복원
+:Restore Tab Group
+kr:탭 그룹 복원
+:Restore Tab Group...
+kr:탭 그룹 복원...
+:Restore page
+kr:페이지 복원
+:Resume
+kr:재개
+:Reverse
+kr:역방향
+:RichMedia
+kr:리치미디어
+:Right to left
+kr:오른쪽에서 왼쪽으로
+:Rotate &Left
+kr:왼쪽으로 돌리기(&L)
+:Rotate &Right
+kr:오른쪽으로 돌리기(&R)
+:Rotate Left
+kr:왼쪽으로 돌리기(L)
+:Rotate Right
+kr:오른쪽으로 돌리기(R)
+:Run PDF Script
+kr:PDF 스크립트 실행
+:Run PDF Script...
+kr:PDF 스크립트 실행...
+:Run Script
+kr:스크립트 실행
+:Running...
+kr:실행 중...
+:S&earch with
+kr:검색 도구
+:S&election
+kr:선택(&E)
+:S&quiggly
+kr:구불구불한
+:S&tretch pages to fill paper
+kr:용지에 맞게 페이지 늘이기
+:SHA-1:
+kr:SHA-1:
+:SVG documents
+kr:SVG 문서
+:Save
+kr:저장
+:Save %s to disk
+kr:%s을(를) 디스크에 저장
+:Save Annotations to a new PDF...
+kr:주석을 새 PDF로 저장...
+:Save Annotations to existing PDF
+kr:주석을 현재 PDF에 저장하기
+:Save As
+kr:다른 이름으로 저장
+:Save As Image...
+kr:이미지로 저장...
+:Save As...
+kr:다른 이름으로 저장(S)...
+:Save Attachment
+kr:첨부 파일 저장
+:Save Attachment...
+kr:첨부파일 저장...
+:Save Embedded File...
+kr:임베딩된 파일 저장...
+:Save File As...
+kr:다른 이름으로 파일 저장...
+:Save Image
+kr:이미지 저장
+:Save Image...
+kr:이미지 저장...
+:Save Selection As Image
+kr:선택 영역을 이미지로 저장
+:Save Shortc&ut...
+kr:바로가기 저장(&H)...
+:Save Tab Group
+kr:탭 그룹 저장
+:Save Tab Group...
+kr:탭 그룹 저장...
+:Save as
+kr:다른 이름으로 저장
+:Save changes
+kr:변경 사항 저장
+:Save changes to %s
+kr:%s에 변경사항 저장
+:Save changes to &new PDF
+kr:새 PDF에 변경사항 저장
+:Save changes to a new PDF
+kr:새 PDF에 변경사항 저장
+:Save changes to existing PDF
+kr:기존 PDF에 변경사항 저장
+:Save changes?
+kr:변경사항을 저장하시겠습니까?
+:Save to &new PDF
+kr:새 PDF로 저장(&N)
+:Save to new file
+kr:새 파일로 저장
+:Saved annotations to '%s'
+kr:주석을 '%s'에 저장했습니다
+:Saved screenshot to '%s'
+kr:스크린샷을 '%s'에 저장했습니다
+:Saving image...
+kr:이미지 저장 중...
+:Scene Type:
+kr:장면 유형:
+:Screen
+kr:화면
+:Scroll Down
+kr:아래로 스크롤
+:Scroll Down By Half Page
+kr:반 페이지 아래로 스크롤
+:Scroll Down By Page
+kr:페이지 아래로 스크롤
+:Scroll Left
+kr:왼쪽으로 스크롤
+:Scroll Left By Page
+kr:페이지 왼쪽으로 스크롤
+:Scroll Right
+kr:오른쪽으로 스크롤
+:Scroll Right By Page
+kr:페이지 단위로 오른쪽으로 스크롤
+:Scroll Up
+kr:위로 스크롤
+:Scroll Up By Half Page
+kr:반 페이지 단위로 위로 스크롤
+:Scroll Up By Page
+kr:페이지 단위로 위로 스크롤
+:Scrolling
+kr:스크롤
+:Search
+kr:검색
+:Search %d files (Ctrl + F)
+kr:%d개 파일 검색 (Ctrl + F)
+:Search Bookmarks
+kr:북마크 검색
+:Search Favorites
+kr:즐겨찾기 검색
+:Search Image with Google Lens
+kr:Google Lens로 이미지 검색
+:Search Page with Google Lens
+kr:Google Lens로 페이지 검색
+:Search Selection with Bing
+kr:Bing으로 선택 영역 검색
+:Search Selection with Google
+kr:Google로 선택 영역 검색
+:Search Selection with Google Scholar
+kr:Google Scholar로 선택 영역 검색
+:Search Selection with Wikipedia
+kr:Wikipedia로 선택 영역 검색
+:Search syntax
+kr:검색 구문
+:Search with Google Lens
+kr:Google Lens로 검색
+:See %s for setup instructions.
+kr:설정 방법은 %s를 참조하세요.
+:Select
+kr:선택
+:Select &All
+kr:모두 선택(&A)
+:Select &All\tCtrl+A
+kr:모두 선택(&A)\tCtrl+A
+:Select All
+kr:모두 선택(A)
+:Select C&urrent Page
+kr:현재 페이지 선택
+:Select Current Page
+kr:현재 페이지 선택
+:Select Text With Keyboard
+kr:키보드로 텍스트 선택
+:Select content with Ctrl+left mouse button
+kr:Ctrl+마우스 왼쪽 버튼으로 내용을 선택하세요.
+:Select file
+kr:파일 선택
+:Select text to highlight it. **Esc** or **Enter** to finish.
+kr:강조할 텍스트를 선택하세요. 완료하려면 **Esc** 또는 **Enter**를 누르세요.
+:Select the folder where SumatraPDF should be installed:
+kr:SumatraPDF를 설치할 폴더 선택:
+:Selected &Image
+kr:선택한 이미지
+:Selection
+kr:선택(E)
+:Selection was too long for a URL and was shortened.
+kr:선택 영역이 URL로 사용하기에 너무 길어서 단축되었습니다.
+:Selection:
+kr:선택:
+:Send &by E-mail...
+kr:이메일로 보내기(&E)...
+:Send Document By Email...
+kr:이메일로 문서 보내기...
+:Sending selection failed (HTTP %d)
+kr:선택 항목 전송 실패 (HTTP %d)
+:Sending selection failed (error %d)
+kr:선택 항목 전송 실패 (오류 %d)
+:Sent selection (HTTP %d)
+kr:선택 항목 전송됨 (HTTP %d)
+:Serial Number:
+kr:일련 번호:
+:Set
+kr:설정
+:Set Inverse Search Command Line...
+kr:역방향 검색 명령줄 설정...
+:Set Screenshot Hotkey
+kr:스크린샷 단축키 설정
+:Set Screenshot Hotkey...
+kr:스크린샷 단축키 설정...
+:Set inverse search command line
+kr:역방향 검색 명령줄 설정
+:Set theme
+kr:테마 설정
+:Set theme '%s'
+kr:'%s' 테마 설정
+:Settings
+kr:설정(S)
+:Settings...
+kr:설정...
+:Sh&ow Toolbar
+kr:도구모음 보이기(&T)
+:Sho&w Comment
+kr:댓글 표시
+:Sho&w Thumbnails
+kr:축소판 표시
+:Show &Bookmarks
+kr:북마크 표시(&B)
+:Show &DN
+kr:DN 표시
+:Show &Favorites
+kr:즐겨찾기 보이기(&F)
+:Show &Pages Continuously
+kr:연속적으로 페이지 보이기(&P)
+:Show &Thumbnails
+kr:축소판 표시
+:Show &labels
+kr:레이블 표시
+:Show &name
+kr:이름 표시
+:Show Annotations
+kr:주석 표시
+:Show Book&marks
+kr:북마크 보이기(&M)
+:Show Comment
+kr:댓글 표시
+:Show Document Bookmarks...
+kr:문서 북마크 표시...
+:Show Document Table Of Contents
+kr:문서 목차 표시
+:Show Errors
+kr:오류 표시
+:Show Errors...
+kr:오류 표시...
+:Show Favorites
+kr:즐겨찾기 보이기
+:Show Favorites in Tab
+kr:탭에서 즐겨찾기 표시
+:Show File In Folder...
+kr:폴더에서 파일 표시...
+:Show Generated HTML
+kr:생성된 HTML 보기
+:Show In Toolbar
+kr:도구 모음에 표시
+:Show Keyboard Shortcuts
+kr:키보드 단축키 표시
+:Show Logs
+kr:로그 표시
+:Show Me&nu
+kr:메뉴 표시
+:Show PDF Info
+kr:PDF 정보 표시
+:Show PDF Info...
+kr:PDF 정보 표시...
+:Show as list
+kr:목록으로 표시
+:Show as thumbnails
+kr:썸네일로 표시
+:Show da&te
+kr:날짜 표시
+:Show frequently read
+kr:최근에 읽은 파일 보이기
+:Show in fo&lder
+kr:탐색기에서 폴더 열기(&F)
+:Show in folder
+kr:탐색기에서 폴더 열기
+:Show name as &graphic
+kr:이름을 그래픽으로 표시
+:Show the &bookmarks sidebar when available
+kr:가능한 경우 북마크 사이드바 표시(&B)
+:Show the selected annotation's note
+kr:선택한 주석의 노트 표시
+:Shrink To Fit
+kr:페이지에 맞춤
+:Si&gn With Image
+kr:이미지로 서명
+:Sign
+kr:서명
+:Sign Document
+kr:문서 서명
+:Sign Document...
+kr:문서 서명...
+:Sign With Image
+kr:이미지로 서명
+:Signature
+kr:서명
+:Signature &type:
+kr:서명 유형:
+:Signatures:
+kr:서명:
+:Signing this way locks the document: no further changes or signatures will be possible. Continue?
+kr:이 방식으로 서명하면 문서가 잠깁니다: 더 이상 변경이나 서명이 불가능합니다. 계속하시겠습니까?
+:Single Page
+kr:한 페이지씩
+:Single Page View
+kr:단일 페이지 보기
+:Size:
+kr:크기:
+:Smart Next Tab
+kr:스마트 다음 탭
+:Smart Overlay
+kr:스마트 오버레이
+:Smart Previous Tab
+kr:스마트 이전 탭
+:Smart start
+kr:스마트 시작
+:Software:
+kr:소프트웨어:
+:Solid lines
+kr:실선
+:Sort By Name
+kr:이름순 정렬
+:Sort Favorites By Name
+kr:즐겨찾기 이름순 정렬
+:Sound
+kr:사운드
+:Source file %s has no synchronization point
+kr:원본 파일 %s (은)는 동기화 지점이 없습니다.
+:Space for sticky mode
+kr:고정 모드 공간
+:Speed
+kr:속도
+:Square
+kr:사각형
+:Squiggly
+kr:구불구불한
+:Stamp
+kr:스탬프(S)
+:Start Auto-Scroll
+kr:자동 스크롤 시작
+:Start Reading From Cursor Position
+kr:커서 위치에서 읽기 시작
+:Start Reading From Top
+kr:처음부터 읽기 시작
+:Start Reading Selection
+kr:선택 항목 읽기 시작
+:Start SumatraPDF
+kr:SumatraPDF 시작
+:Stop
+kr:중지
+:Stop Reading
+kr:읽기 중지
+:Strike Out
+kr:취소선(S)
+:Subdivisions:
+kr:세분화:
+:Subject:
+kr:주제:
+:SumatraPDF %s Installer
+kr:SumatraPDF %s 설치 관리자
+:SumatraPDF %s Uninstaller
+kr:SumatraPDF %s 제거 관리자
+:SumatraPDF - Show Printers
+kr:SumatraPDF - 프린터 표시
+:SumatraPDF File Picker
+kr:SumatraPDF 파일 선택기
+:SumatraPDF Update
+kr:SumatraPDF 업데이트
+:SumatraPDF cannot create files in its installation folder.
+kr:SumatraPDF는 설치 폴더에 파일을 생성할 수 없습니다.
+:SumatraPDF crashed
+kr:SumatraPDF 충돌남
+:SumatraPDF crashed.\n\nPress 'Cancel' to see the crash report.
+kr:SumatraPDF가 충돌했습니다.\n\n충돌 보고서를 보려면 '취소'를 누르세요.
+:SumatraPDF has been uninstalled.
+kr:SumatraPDF가 제거됐습니다.
+:SumatraPDF installation log
+kr:SumatraPDF 설치 로그
+:SumatraPDF installation not found.
+kr:SumatraPDF 설치 파일을 찾을 수 없습니다.
+:Synchronization file cannot be opened
+kr:동기화 파일을 열 수 없습니다.
+:Tab Groups
+kr:탭 그룹
+:Tagged PDF
+kr:태그있는 PDF
+:Take Screenshot...
+kr:스크린샷 찍기...
+:Text
+kr:텍스트(T)
+:Text Alignment
+kr:텍스트 정렬
+:Text Alignment:
+kr:텍스트 정렬:
+:Text Color
+kr:텍스트 색상
+:Text Color:
+kr:텍스트 색상:
+:Text Font:
+kr:텍스트 글꼴:
+:Text Size
+kr:텍스트 크기
+:Text Size:
+kr:텍스트 크기:
+:Text documents
+kr:텍스트 문서
+:Thank you for choosing SumatraPDF!
+kr:SumatraPDF를 선택해 주셔서 고마워요!
+:Thank you! SumatraPDF has been installed.
+kr:야호! SumatraPDF가 설치됐습니다.
+:The configured AI model is not available for your account.
+kr:구성된 AI 모델을 귀하의 계정에서 사용할 수 없습니다.
+:The document's own styling is used.
+kr:문서 자체 스타일이 사용됩니다.
+:The file does not exist
+kr:파일이 존재하지 않습니다
+:The file format is not supported or the file is damaged
+kr:파일 형식이 지원되지 않거나 파일이 손상되었습니다
+:The file is in use by another program
+kr:파일이 다른 프로그램에서 사용 중입니다
+:The installer has been corrupted. Please download it again.
+kr:설치 프로그램이 손상되었습니다. 다시 다운로드하세요.
+:The selected AI CLI is not installed.
+kr:선택한 AI CLI가 설치되지 않았습니다.
+:The selected area is too large for Google Lens.
+kr:선택한 영역이 Google 렌즈에 비해 너무 큽니다.
+:Thick
+kr:두껍게
+:Thickness
+kr:두께
+:Thin
+kr:얇게
+:This document doesn't allow copying text.
+kr:이 문서는 텍스트 복사를 허용하지 않습니다.
+:Thumbnails
+kr:썸네일
+:Tip:
+kr:팁:
+:Title:
+kr:제목:
+:To open file from history open [command palette](CmdCommandPalette) with (Kbd/(Key/CmdCommandPalette)) and type (Kbd/#).
+kr:기록에서 파일을 열려면 (Kbd/(Key/CmdCommandPalette))로 [명령 팔레트](CmdCommandPalette)를 열고 (Kbd/#)를 입력하세요.
+:To:
+kr:받는 사람:
+:Toggle Auto-Rotate Wide Pages
+kr:넓은 페이지 자동 회전 전환
+:Toggle Bookmarks
+kr:책갈피 토글
+:Toggle Boolean Setting
+kr:부울 설정 전환
+:Toggle Cache Info
+kr:캐시 정보 토글
+:Toggle Citation Hover Preview
+kr:인용 호버 미리보기 전환
+:Toggle Continuous View
+kr:연속 보기 토글
+:Toggle Cursor Position
+kr:커서 위치 토글
+:Toggle Disable Links
+kr:링크 비활성화 토글
+:Toggle Edit PDF
+kr:PDF 편집 전환
+:Toggle Engineering Drawing Enhancement
+kr:공학 도면 향상 토글
+:Toggle Favorites
+kr:즐겨찾기 토글
+:Toggle Free Pan
+kr:자유 이동 전환
+:Toggle Fullscreen
+kr:전체 화면 토글
+:Toggle Grayscale
+kr:회색조 전환
+:Toggle Highlight Form Fields
+kr:양식 필드 강조 전환
+:Toggle Inverse Search
+kr:역방향 검색 토글
+:Toggle Laser Pointer
+kr:레이저 포인터 전환
+:Toggle Light/Dark Theme
+kr:라이트/다크 테마 토글
+:Toggle Manga Mode
+kr:망가 모드 토글
+:Toggle Menu Bar
+kr:메뉴 바 토글
+:Toggle PDF Preview Logging
+kr:PDF 미리보기 로깅 토글
+:Toggle Page Boxes
+kr:페이지 박스 전환
+:Toggle Page Grid
+kr:페이지 격자 전환
+:Toggle Page Info
+kr:페이지 정보 토글
+:Toggle Preserve PDF Image Colors in Dark Mode
+kr:어두운 모드에서 PDF 이미지 색상 유지 전환
+:Toggle Read Aloud
+kr:소리내어 읽기 전환
+:Toggle Render Queue Info
+kr:렌더링 대기열 정보 전환
+:Toggle Show Annotations
+kr:주석 표시 전환
+:Toggle Show Images
+kr:이미지 표시 전환
+:Toggle Show Links
+kr:링크 표시 전환
+:Toggle Table Of Contents
+kr:목차 전환
+:Toggle Thumbnails
+kr:썸네일 전환
+:Toggle Toolbar
+kr:도구 모음 전환
+:Toggle Transparency Grid
+kr:투명도 격자 전환
+:Toggle Trim Empty Margins
+kr:빈 여백 자르기 전환
+:Toggle Uniform Page Width
+kr:균일한 페이지 너비 전환
+:Toggle Zoom
+kr:확대/축소 전환
+:Too large for this DPI
+kr:이 DPI에 비해 너무 큼
+:Top of view
+kr:보기 상단
+:Translate
+kr:번역
+:Translate Selection with Antigravity...
+kr:Antigravity로 선택 영역 번역...
+:Translate Selection with Claude Code...
+kr:Claude Code로 선택 항목 번역...
+:Translate Selection with DeepL
+kr:DeepL로 선택 항목 번역
+:Translate Selection with Google
+kr:Google로 선택 항목 번역
+:Translate Selection with Grok Build...
+kr:Grok Build로 선택 항목 번역...
+:Translate Selection with OpenAI Codex...
+kr:OpenAI Codex로 선택 영역 번역...
+:Translate Selection...
+kr:선택 영역 번역...
+:Translate with
+kr:번역 도구
+:Translating...
+kr:번역 중...
+:Translation failed.
+kr:번역 실패.
+:Translation response did not contain text.
+kr:번역 응답에 텍스트가 포함되지 않았습니다.
+:Translation timed out.
+kr:번역 시간 초과.
+:Translation:
+kr:번역:
+:Transparency Gri&d
+kr:투명도 격자
+:Trap Net
+kr:트랩 넷
+:Trust:
+kr:신뢰:
+:Underline
+kr:밑줄(U)
+:Undo
+kr:실행 취소
+:Uninstall SumatraPDF
+kr:SumatraPDF 제거
+:Uninstallation failed
+kr:제거 실패
+:Uninstallation in progress...
+kr:제거하는 중...
+:Units:
+kr:단위:
+:Unknown
+kr:알 수 없음
+:Unknown source file (%s)
+kr:알 수 없는 원본 파일 (%s)
+:Unpin
+kr:고정 해제
+:Unregister Windows Previewer
+kr:Windows 미리보기 등록 해제
+:Unregister Windows Search Filter
+kr:Windows 검색 필터 등록 해제
+:Unsaved changes
+kr:저장되지 않은 변경사항
+:Unsaved changes in '%s'
+kr:'%s'에 저장되지 않은 변경사항
+:Unsaved changes: %d
+kr:저장되지 않은 변경사항: %d
+:Up
+kr:위로
+:Update
+kr:업데이트
+:Update EU Trusted List
+kr:EU 신뢰 목록 업데이트
+:Use &tabs
+kr:탭 사용(&T)
+:Use <N> for the page number
+kr:페이지 번호에 <N> 사용
+:Use SumatraPDF File Picker
+kr:SumatraPDF 파일 선택기 사용
+:User Comment:
+kr:사용자 코멘트:
+:Valid From:
+kr:유효 시작일:
+:Valid To:
+kr:유효 만료일:
+:Version %s available. %s
+kr:버전 %s 사용 가능. %s
+:Version %s from %s available. %s
+kr:%s의 버전 %s 사용 가능. %s
+:Vertical:
+kr:수직:
+:View
+kr:보기
+:View Certificate...
+kr:인증서 보기...
+:View With Custom External Viewer
+kr:사용자 지정 외부 뷰어로 보기
+:View: Presentation Mode
+kr:보기: 프레젠테이션 모드
+:Visit &Website
+kr:웹 사이트 방문(&W)
+:Visual Search With Google &Lens
+kr:Google Lens로 비주얼 검색
+:Voice
+kr:음성
+:Warning
+kr:경고
+:Watermark
+kr:워터마크
+:White Balance:
+kr:화이트 밸런스:
+:Widget
+kr:위젯
+:Windows
+kr:창
+:Word documents
+kr:Word 문서
+:Wrong password for the certificate file.
+kr:인증서 파일의 비밀번호가 잘못되었습니다.
+:XPS documents
+kr:XPS 문서
+:YCbCr Positioning:
+kr:YCbCr 위치:
+:Yes
+kr:예
+:You can [bookmark pages as favorites](Help/Managing-favorites).
+kr:[페이지를 즐겨찾기로 북마크](Help/Managing-favorites)할 수 있습니다.
+:You can [chat with AI about a document](Help/AI-Chat-with-document).
+kr:[문서에 대해 AI와 채팅](Help/AI-Chat-with-document)할 수 있습니다.
+:You can [customize keyboard shortcuts](Help/Customize-keyboard-shortcuts).
+kr:[키보드 단축키를 사용자 지정](Help/Customize-keyboard-shortcuts)할 수 있습니다.
+:You can [customize scrollbar](CmdChangeScrollbar).
+kr:[스크롤바를 사용자 지정](CmdChangeScrollbar)할 수 있습니다.
+:You can [customize theme colors](Help/Customize-theme-colors).
+kr:[테마 색상을 사용자 지정](Help/Customize-theme-colors)할 수 있습니다.
+:You can [customize toolbar](Help/Customize-toolbar).
+kr:[도구 모음을 사용자 지정](Help/Customize-toolbar)할 수 있습니다.
+:You can [edit PDF annotations](Help/Editing-annotations).
+kr:[PDF 주석을 편집](Help/Editing-annotations)할 수 있습니다.
+:You can [extract text from PDF file](Help/Tool-x-extract-text-from-pdf).
+kr:[PDF 파일에서 텍스트를 추출](Help/Tool-x-extract-text-from-pdf)할 수 있습니다.
+:You can [fill PDF forms](Help/Fill-PDF-forms).
+kr:[PDF 양식을 작성](Help/Fill-PDF-forms)할 수 있습니다.
+:You can [have documents read aloud](Help/Read-Aloud).
+kr:[문서를 소리 내어 읽을](Help/Read-Aloud) 수 있습니다.
+:You can [merge PDFs](Help/Merge-PDFs) and [reorder pages](Help/Reorder-PDF-pages).
+kr:[PDF를 병합](Help/Merge-PDFs)하고 [페이지 순서를 변경](Help/Reorder-PDF-pages)할 수 있습니다.
+:You can [present a PDF](Help/Present-a-PDF) full screen.
+kr:[PDF를 전체 화면으로 발표](Help/Present-a-PDF)할 수 있습니다.
+:You can [print selected pages](Help/Print-selected-pages).
+kr:[선택한 페이지를 인쇄](Help/Print-selected-pages)할 수 있습니다.
+:You can [read comics and manga](Help/Comics-and-manga) right to left.
+kr:[만화와 망가를 오른쪽에서 왼쪽으로 읽을](Help/Comics-and-manga) 수 있습니다.
+:You can [redact a PDF](Help/Redact-a-PDF).
+kr:[PDF를 편집](Help/Redact-a-PDF)할 수 있습니다.
+:You can [save a page region as an image](Help/Save-page-region-as-image).
+kr:[페이지 영역을 이미지로 저장](Help/Save-page-region-as-image)할 수 있습니다.
+:You can [sign a PDF](Help/Sign-a-PDF).
+kr:[PDF에 서명](Help/Sign-a-PDF)할 수 있습니다.
+:You can [split a PDF](Help/Split-a-PDF).
+kr:[PDF를 분할](Help/Split-a-PDF)할 수 있습니다.
+:You can [toggle menu bar](CmdToggleMenuBar) with (Kbd/(Key/CmdToggleMenuBar)).
+kr:(Kbd/(Key/CmdToggleMenuBar))로 [메뉴 표시줄을 전환](CmdToggleMenuBar)할 수 있습니다.
+:You can [toggle toolbar](CmdToggleToolbar) with (Kbd/(Key/CmdToggleToolbar)).
+kr:(Kbd/(Key/CmdToggleToolbar))로 [도구 모음을 전환](CmdToggleToolbar)할 수 있습니다.
+:You can [use SumatraPDF with LaTeX](Help/LaTeX-integration) for forward and inverse search.
+kr:정방향 및 역방향 검색을 위해 [LaTeX와 함께 SumatraPDF를 사용](Help/LaTeX-integration)할 수 있습니다.
+:You can enable [citation preview on hover](Help/Citation-hover-preview).
+kr:[호버 시 인용 미리보기](Help/Citation-hover-preview)를 활성화할 수 있습니다.
+:You have the latest version.
+kr:최신 버전을 사용하고 있습니다.
+:You have version '%s' and version '%s' is available.\nDo you want to install the new version?
+kr:현재 버전은 '%s'이고 버전 '%s'을(를) 사용할 수 있습니다.\n새 버전을 설치하시겠습니까?
+:You're installing 32-bit SumatraPDF on 64-bit OS.\nWould you like to download\n64-bit version?
+kr:64비트 OS에 32비트 SumatraPDF를 설치하고 있습니다.\n64비트 버전을\n다운로드 하시겠습니까?
+:Zoom
+kr:확대/축소
+:Zoom In
+kr:확대
+:Zoom Out
+kr:축소
+:Zoom: 100%
+kr:확대/축소: 100%
+:Zoom: 12.5%
+kr:확대/축소: 12.5%
+:Zoom: 125%
+kr:확대/축소: 125%
+:Zoom: 150%
+kr:확대/축소: 150%
+:Zoom: 1600%
+kr:확대/축소: 1600%
+:Zoom: 200%
+kr:확대/축소: 200%
+:Zoom: 25%
+kr:확대/축소: 25%
+:Zoom: 3200%
+kr:확대/축소: 3200%
+:Zoom: 400%
+kr:확대/축소: 400%
+:Zoom: 50%
+kr:확대/축소: 50%
+:Zoom: 6400%
+kr:확대/축소: 6400%
+:Zoom: 8.33%
+kr:확대/축소: 8.33%
+:Zoom: 800%
+kr:확대/축소: 800%
+:Zoom: Actual Size
+kr:확대/축소: 실제 크기
+:Zoom: Custom...
+kr:확대/축소: 사용자 지정...
+:Zoom: Fit Content
+kr:확대/축소: 내용에 맞춤
+:Zoom: Fit Height
+kr:확대/축소: 높이에 맞춤
+:Zoom: Fit Page
+kr:확대/축소: 페이지에 맞춤
+:Zoom: Fit Page and Single Page
+kr:확대/축소: 페이지에 맞춤 및 단일 페이지
+:Zoom: Fit Page or Width by Orientation
+kr:확대/축소: 방향에 따라 페이지 또는 너비에 맞춤
+:Zoom: Fit Visible
+kr:확대/축소: 보이는 영역에 맞춤
+:Zoom: Fit Width
+kr:확대/축소: 너비에 맞춤
+:Zoom: Fit Width And Continuous
+kr:확대/축소: 너비에 맞춤 및 연속
+:Zoom: Shrink To Fit
+kr:확대/축소: 축소하여 맞춤
+:Zoom: To Selection
+kr:확대/축소: 선택 영역으로
+:[Changes detected; refreshing] %s
+kr:[변경 감지됨.  새로 고치는 중...] %s
+:browse
+kr:찾아보기
+:centimeters
+kr:센티미터
+:changed by you
+kr:회원님이 변경함
+:copying text
+kr:텍스트 복사 중
+:default: %s
+kr:기본값: %s
+:delete file
+kr:파일 삭제
+:document
+kr:문서
+:eBook Settings
+kr:전자책 설정
+:empty
+kr:비어 있음
+:filter %d annotations
+kr:주석 %d개 필터링
+:from the document
+kr:문서에서
+:in document
+kr:문서 내
+:inches
+kr:인치
+:millimeters
+kr:밀리미터
+:of %d pages
+kr:전체 %d 페이지 중
+:open
+kr:열기
+:open in current tab
+kr:현재 탭에서 열기
+:open in new tab
+kr:새 탭에서 열기
+:points
+kr:포인트
+:printing document
+kr:문서 인쇄

@@ -190,15 +190,6 @@ static void MaybeMigrateTab(WindowTab* tab, MainWindow* newWin, Point releasePt)
         return;
     }
 
-    // don't migrate if it's only one document tab and not
-    // dragging over a window
-    int nDocTabs = 0;
-    for (auto& t : oldWin->Tabs()) {
-        if (t->IsNonDocumentTab()) continue;
-        nDocTabs++;
-    }
-    if (nDocTabs == 1 && !newWin) return;
-
     // migration reloads by path; a document opened from memory (an embedded
     // attachment) has none
     if (len(tab->filePath) == 0) {

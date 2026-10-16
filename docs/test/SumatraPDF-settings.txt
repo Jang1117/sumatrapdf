@@ -69,6 +69,7 @@ ReadingBar [
 FastScrollOverScrollbar = false
 PreventSleepInFullscreen = true
 TabWidth = 300
+TabsButtonGap = 64
 Theme = Light
 HelpTheme = app
 DocumentColorsFollowTheme = off

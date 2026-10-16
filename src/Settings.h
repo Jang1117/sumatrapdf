@@ -1050,6 +1050,10 @@ struct Settings {
     // maximum width of a single tab, in pixels at 100% display scaling (at
     // least 60)
     int tabWidth;
+    // gap between the tab strip and the caption buttons (minimize / maximize /
+    // close) in the title bar, in pixels at 100% display scaling; this empty
+    // area is what you grab to drag the window
+    int tabsButtonGap;
     // if both the favorites and the bookmarks part of the sidebar are
     // visible, this is the height of the bookmarks (table of contents)
     // part, in screen pixels

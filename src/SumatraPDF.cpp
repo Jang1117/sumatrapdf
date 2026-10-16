@@ -2473,7 +2473,7 @@ void VirtCaptionButton::SetBounds(Rect r) {
     win->captionBtn[id].visible = GetVisibility() == Visibility::Visible;
 }
 
-constexpr int kTabsButtonGapX = 32;
+
 
 static void CreateCaptionLayout(MainWindow* win) {
     for (int i = CB_BTN_FIRST; i < CB_BTN_COUNT; i++) {
@@ -6590,7 +6590,7 @@ static void SyncCaptionLayout(MainWindow* win) {
     SetVis(win->capRow2Lead, twoRow && hasFileTabs && isRtl);
     SetVis(win->capRow2Trail, twoRow && hasFileTabs);
 
-    win->capGap->dx = kTabsButtonGapX;
+    win->capGap->dx = DpiScale(gSettings->tabsButtonGap);
     win->capTabsRow1->dy = tabHeight + 2;
     win->capTabsRow2->dy = tabHeight;
 

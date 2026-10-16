@@ -190,6 +190,9 @@ static void MaybeMigrateTab(WindowTab* tab, MainWindow* newWin, Point releasePt)
         return;
     }
 
+    // note: intentionally no guard against migrating the last document tab;
+    // the old window closes via CloseWindowIfNoDocuments() below (Chrome-like)
+
     // migration reloads by path; a document opened from memory (an embedded
     // attachment) has none
     if (len(tab->filePath) == 0) {
